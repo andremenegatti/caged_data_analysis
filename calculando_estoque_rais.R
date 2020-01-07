@@ -1,6 +1,9 @@
+library(tidyverse)
 
-txt_file <- 'C:/Users/Dell/Desktop/USP_Municipios/Dados/RAIS/RAIS_VINC_PUB_SP.txt'
+# Arquivo com dados da RAIS
+txt_file <- 'RAIS/RAIS_VINC_PUB_SP.txt'
 
+# Lendo RAIS
 df_rais_sp <-
   read_delim(file = txt_file,
              delim = ";",
@@ -36,11 +39,14 @@ df_rais_sp <-
                `Mês Desligamento` = col_integer()
              )
   ) %>%
+  # Filtrando municipios de SP
   filter(str_detect(Município, '35\\d{4}'))
 
+# Apenas vinculos ativos em 31/12/2018
 df_rais_sp_ativos <- df_rais %>%
   filter(`Vínculo Ativo 31/12` == 1)
 
+# Selecionando e renomeando variaveis
 df_rais_sp_ativos2 <- df_rais_sp_ativos %>%
   select(codigo_municipio = `Município`,
          codigo_muncipio_trab = `Mun Trab`,
@@ -64,9 +70,11 @@ df_rais_sp_ativos2 <- df_rais_sp_ativos %>%
          tipo_salario = `Tipo Salário`
   )
 
+# Salvando base limpa
 saveRDS(df_rais_sp_ativos2,
-        'C:/Users/Dell/Desktop/USP_Municipios/Dados/RAIS/vinculos_ativos_31_12_2017_sp_clean.rds')
+        'RAIS/vinculos_ativos_31_12_2017_sp_clean.rds')
 
+# Adicionando dados de municipios
 df_rais_sp_ativos2 <- df_rais_sp_ativos2 %>%
   left_join(municipios_sp %>%
               select(codigo_municipio = codigo,
@@ -74,26 +82,24 @@ df_rais_sp_ativos2 <- df_rais_sp_ativos2 %>%
                      regiao_governo),
             by = 'codigo_municipio')
 
+# Adicionando variavel com setor do IBGE
 df_rais_sp_ativos2 <- df_rais_sp_ativos2 %>%
   mutate(setor = get_ibge_sector(codigo_subsetor_ibge, return_factor = FALSE))
 
+# Calculando estoque de trabalhadores por setor, por municipios
 df_estoque_municipios_setor <- df_rais_sp_ativos2 %>%
   group_by(codigo_municipio, municipio_clean, regiao_governo, setor) %>%
   tally() %>%
   ungroup()
 
-saveRDS(df_estoque_municipios_setor, 'C:/Users/Dell/Desktop/USP_Municipios/Dados/RAIS/df_estoque_municipios_setor.rds')
+# Salvando DF com estoque, por municipio
+saveRDS(df_estoque_municipios_setor, 'RAIS/df_estoque_municipios_setor.rds')
 
+# Calculando estoque por setor, por regiao
 df_estoque_regioes_setor <- df_estoque_municipios_setor %>%
   group_by(regiao_governo, setor) %>%
   summarise(n = sum(n)) %>%
   ungroup()
 
-df_estoque_regioes_setor %>%
-  filter(setor == 'Agropecuária') %>%
-  select(n) %>%
-  unlist() %>%
-  sum()
-
-saveRDS(df_estoque_regioes_setor, 'C:/Users/Dell/Desktop/USP_Municipios/Dados/RAIS/df_estoque_regioes_setor.rds')
-
+# Salvando DF co estoque por regiao
+saveRDS(df_estoque_regioes_setor, 'RAIS/df_estoque_regioes_setor.rds')
