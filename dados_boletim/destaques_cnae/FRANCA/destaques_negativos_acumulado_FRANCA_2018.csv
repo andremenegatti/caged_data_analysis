@@ -1,26 +1,26 @@
 "","setor","classe_cnae","saldo"
-"1","Agropecuária","Cultivo de café",-78
-"2","Agropecuária","Cultivo de cereais",-12
-"3","Agropecuária","Cultivo de cana-de-açúcar",-7
-"4","Agropecuária","Produção de mudas e outras formas de propagação vegetal, certificadas",-3
-"5","Agropecuária","Atividades de apoio à agricultura",-2
-"6","Comércio","Comércio varejista de material elétrico",-27
+"1","Agropecuária","Cultivo de cana-de-açúcar",-7
+"2","Agropecuária","Cultivo de cereais",-6
+"3","Agropecuária","Produção de mudas e outras formas de propagação vegetal, certificadas",-5
+"4","Agropecuária","Criação de bovinos",-4
+"5","Agropecuária","Cultivo de café",-4
+"6","Comércio","Comércio varejista de material elétrico",-29
 "7","Comércio","Comércio atacadista especializado em produtos alimentícios não especificados anteriormente",-23
-"8","Comércio","Comércio varejista de gás liqüefeito de petróleo (GLP)",-19
-"9","Comércio","Comércio varejista especializado de equipamentos de telefonia e comunicação",-19
-"10","Comércio","Comércio por atacado e a varejo de motocicletas, peças e acessórios",-15
-"11","Construção civil","Construção de edifícios",-27
-"12","Construção civil","Obras de acabamento",-24
-"13","Construção civil","Obras de terraplenagem",-2
-"14","Construção civil","Abate de reses, exceto suínos",0
-"15","Construção civil","Abate de suínos, aves e outros pequenos animais",0
-"16","Indústria","Fabricação de calçados de couro",-679
-"17","Indústria","Fabricação de artefatos de borracha não especificados anteriormente",-180
-"18","Indústria","Curtimento e outras preparações de couro",-144
-"19","Indústria","Fabricação de partes para calçados, de qualquer material",-57
-"20","Indústria","Fabricação de massas alimentícias",-28
-"21","Serviços","Transporte rodoviário de carga",-96
-"22","Serviços","Incorporação de empreendimentos imobiliários",-81
-"23","Serviços","Atividades de cobrança e informações cadastrais",-58
-"24","Serviços","Planos de saúde",-56
-"25","Serviços","Limpeza em prédios e em domicílios",-54
+"8","Comércio","Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",-22
+"9","Comércio","Comércio varejista especializado de equipamentos de telefonia e comunicação",-22
+"10","Comércio","Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente; produtos do fumo",-19
+"11","Construção civil","Obras de acabamento",-28
+"12","Construção civil","Instalações hidráulicas, de sistemas de ventilação e refrigeração",-6
+"13","Construção civil","Obras de terraplenagem",-3
+"14","Construção civil","Obras de engenharia civil não especificadas anteriormente",-2
+"15","Construção civil","Obras de fundações",-2
+"16","Indústria","Fabricação de calçados de couro",-158
+"17","Indústria","Fabricação de artefatos de borracha não especificados anteriormente",-144
+"18","Indústria","Curtimento e outras preparações de couro",-137
+"19","Indústria","Fabricação de partes para calçados, de qualquer material",-90
+"20","Indústria","Fabricação de produtos químicos não especificados anteriormente",-33
+"21","Serviços","Transporte rodoviário de carga",-108
+"22","Serviços","Incorporação de empreendimentos imobiliários",-80
+"23","Serviços","Planos de saúde",-69
+"24","Serviços","Atividades de cobrança e informações cadastrais",-64
+"25","Serviços","Atividades de vigilância e segurança privada",-54

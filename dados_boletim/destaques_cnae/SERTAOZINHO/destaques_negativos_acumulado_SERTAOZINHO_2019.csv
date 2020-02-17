@@ -4,23 +4,23 @@
 "3","Agropecuária","Abate de reses, exceto suínos",0
 "4","Agropecuária","Abate de suínos, aves e outros pequenos animais",0
 "5","Agropecuária","Acabamentos em fios, tecidos e artefatos têxteis",0
-"6","Comércio","Comércio varejista de livros, jornais, revistas e papelaria",-32
-"7","Comércio","Comércio varejista de artigos do vestuário e acessórios",-23
-"8","Comércio","Comércio varejista de outros produtos novos não especificados anteriormente",-19
-"9","Comércio","Comércio atacadista de combustíveis sólidos, líquidos e gasosos, exceto gás natural e GLP",-15
-"10","Comércio","Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados",-14
-"11","Construção civil","Obras de fundações",-97
-"12","Construção civil","Instalações hidráulicas, de sistemas de ventilação e refrigeração",-2
+"6","Comércio","Comércio varejista de outros produtos novos não especificados anteriormente",-54
+"7","Comércio","Comércio varejista de livros, jornais, revistas e papelaria",-32
+"8","Comércio","Comércio atacadista de máquinas e equipamentos para uso industrial; partes e peças",-25
+"9","Comércio","Comércio varejista de artigos do vestuário e acessórios",-20
+"10","Comércio","Comércio atacadista de máquinas, aparelhos e equipamentos não especificados anteriormente; partes e peças",-19
+"11","Construção civil","Obras de fundações",-93
+"12","Construção civil","Instalações hidráulicas, de sistemas de ventilação e refrigeração",-3
 "13","Construção civil","Abate de reses, exceto suínos",0
 "14","Construção civil","Abate de suínos, aves e outros pequenos animais",0
 "15","Construção civil","Acabamentos em fios, tecidos e artefatos têxteis",0
-"16","Indústria","Fabricação de açúcar em bruto",-925
-"17","Indústria","Fabricação de açúcar refinado",-104
-"18","Indústria","Instalação de máquinas e equipamentos industriais",-100
-"19","Indústria","Fundição de ferro e aço",-72
-"20","Indústria","Fabricação de máquinas e equipamentos para a agricultura e pecuária, exceto para irrigação",-43
-"21","Serviços","Transporte rodoviário de carga",-104
-"22","Serviços","Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",-12
-"23","Serviços","Carga e descarga",-8
-"24","Serviços","Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio",-7
-"25","Serviços","Atividades de vigilância e segurança privada",-6
+"16","Indústria","Fabricação de açúcar em bruto",-362
+"17","Indústria","Fabricação de açúcar refinado",-101
+"18","Indústria","Fundição de ferro e aço",-81
+"19","Indústria","Instalação de máquinas e equipamentos industriais",-68
+"20","Indústria","Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos",-53
+"21","Serviços","Transporte rodoviário coletivo de passageiros, sob regime de fretamento, e outros transportes rodoviários não especificados anteriormente",-41
+"22","Serviços","Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",-11
+"23","Serviços","Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio",-10
+"24","Serviços","Bancos múltiplos, com carteira comercial",-7
+"25","Serviços","Telecomunicações por fio",-7

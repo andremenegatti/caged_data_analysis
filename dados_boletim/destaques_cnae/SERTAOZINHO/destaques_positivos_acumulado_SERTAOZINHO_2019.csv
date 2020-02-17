@@ -1,26 +1,26 @@
 "","setor","classe_cnae","saldo"
 "1","Agropecuária","Cultivo de cana-de-açúcar",14
-"2","Agropecuária","Criação de animais não especificados anteriormente",7
-"3","Agropecuária","Criação de bovinos",3
-"4","Agropecuária","Cultivo de cereais",2
-"5","Agropecuária","Cultivo de plantas de lavoura permanente não especificadas anteriormente",2
-"6","Comércio","Comércio varejista de ferragens, madeira e materiais de construção",248
-"7","Comércio","Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",29
-"8","Comércio","Comércio varejista de produtos de padaria, laticínio, doces, balas e semelhantes",20
-"9","Comércio","Comércio varejista de produtos farmacêuticos para uso humano e veterinário",15
+"2","Agropecuária","Criação de animais não especificados anteriormente",12
+"3","Agropecuária","Cultivo de cereais",3
+"4","Agropecuária","Atividades paisagísticas",1
+"5","Agropecuária","Criação de bovinos",1
+"6","Comércio","Comércio varejista de ferragens, madeira e materiais de construção",175
+"7","Comércio","Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",26
+"8","Comércio","Comércio varejista de produtos de padaria, laticínio, doces, balas e semelhantes",18
+"9","Comércio","Comércio varejista de bebidas",17
 "10","Comércio","Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",14
-"11","Construção civil","Montagem de instalações industriais e de estruturas metálicas",193
-"12","Construção civil","Serviços especializados para construção não especificados anteriormente",149
-"13","Construção civil","Construção de edifícios",55
-"14","Construção civil","Obras de acabamento",51
-"15","Construção civil","Obras de instalações em construções não especificadas anteriormente",39
-"16","Indústria","Manutenção e reparação de máquinas e equipamentos da indústria mecânica",56
-"17","Indústria","Abate de reses, exceto suínos",48
-"18","Indústria","Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",43
-"19","Indústria","Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente",32
-"20","Indústria","Fabricação de máquinas e equipamentos de uso geral não especificados anteriormente",31
-"21","Serviços","Concessionárias de rodovias, pontes, túneis e serviços relacionados",127
-"22","Serviços","Serviços de engenharia",108
-"23","Serviços","Serviços de arquitetura",69
-"24","Serviços","Restaurantes e outros estabelecimentos de serviços de alimentação e bebidas",49
-"25","Serviços","Atividades de ensino não especificadas anteriormente",47
+"11","Construção civil","Montagem de instalações industriais e de estruturas metálicas",207
+"12","Construção civil","Serviços especializados para construção não especificados anteriormente",125
+"13","Construção civil","Construção de edifícios",70
+"14","Construção civil","Obras de acabamento",64
+"15","Construção civil","Obras de instalações em construções não especificadas anteriormente",43
+"16","Indústria","Manutenção e reparação de máquinas e equipamentos da indústria mecânica",58
+"17","Indústria","Fabricação de máquinas e equipamentos de uso geral não especificados anteriormente",54
+"18","Indústria","Abate de reses, exceto suínos",52
+"19","Indústria","Serviços de usinagem, solda, tratamento e revestimento em metais",46
+"20","Indústria","Fabricação de produtos químicos não especificados anteriormente",38
+"21","Serviços","Concessionárias de rodovias, pontes, túneis e serviços relacionados",132
+"22","Serviços","Transporte rodoviário de carga",108
+"23","Serviços","Serviços de engenharia",91
+"24","Serviços","Locação de meios de transporte, exceto automóveis, sem condutor",83
+"25","Serviços","Manutenção e reparação de veículos automotores",45

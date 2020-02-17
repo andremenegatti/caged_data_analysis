@@ -1,26 +1,26 @@
 "","setor","classe_cnae","saldo"
-"1","Agropecuária","Cultivo de laranja",417
-"2","Agropecuária","Produção de sementes certificadas",166
-"3","Agropecuária","Atividades de apoio à agricultura",164
-"4","Agropecuária","Cultivo de café",57
-"5","Agropecuária","Aluguel de máquinas e equipamentos agrícolas sem operador",27
-"6","Comércio","Comércio varejista de ferragens, madeira e materiais de construção",384
-"7","Comércio","Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados",239
-"8","Comércio","Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",144
-"9","Comércio","Comércio varejista de produtos farmacêuticos para uso humano e veterinário",131
-"10","Comércio","Comércio atacadista de produtos alimentícios em geral",107
-"11","Construção civil","Obras para geração e distribuição de energia elétrica e para telecomunicações",490
-"12","Construção civil","Serviços especializados para construção não especificados anteriormente",467
-"13","Construção civil","Montagem de instalações industriais e de estruturas metálicas",328
-"14","Construção civil","Obras de instalações em construções não especificadas anteriormente",135
-"15","Construção civil","Instalações hidráulicas, de sistemas de ventilação e refrigeração",69
-"16","Indústria","Fabricação de equipamentos de transmissão para fins industriais",194
-"17","Indústria","Fabricação de pneumáticos e de câmaras-de-ar",96
-"18","Indústria","Manutenção e reparação de máquinas e equipamentos da indústria mecânica",88
-"19","Indústria","Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",63
-"20","Indústria","Fabricação de produtos derivados do cacau, de chocolates e confeitos",60
-"21","Serviços","Atividades de atendimento hospitalar",1152
-"22","Serviços","Serviços combinados de escritório e apoio administrativo",480
-"23","Serviços","Limpeza em prédios e em domicílios",453
-"24","Serviços","Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal e em região metropolitana",369
-"25","Serviços","Restaurantes e outros estabelecimentos de serviços de alimentação e bebidas",262
+"1","Agropecuária","Cultivo de laranja",302
+"2","Agropecuária","Atividades de apoio à agricultura",232
+"3","Agropecuária","Produção de sementes certificadas",225
+"4","Agropecuária","Cultivo de plantas de lavoura temporária não especificadas anteriormente",37
+"5","Agropecuária","Aluguel de máquinas e equipamentos agrícolas sem operador",11
+"6","Comércio","Comércio varejista de ferragens, madeira e materiais de construção",303
+"7","Comércio","Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados",271
+"8","Comércio","Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",185
+"9","Comércio","Comércio atacadista de produtos alimentícios em geral",128
+"10","Comércio","Comércio a varejo e por atacado de veículos automotores",106
+"11","Construção civil","Obras para geração e distribuição de energia elétrica e para telecomunicações",510
+"12","Construção civil","Serviços especializados para construção não especificados anteriormente",341
+"13","Construção civil","Montagem de instalações industriais e de estruturas metálicas",162
+"14","Construção civil","Obras de instalações em construções não especificadas anteriormente",142
+"15","Construção civil","Instalações hidráulicas, de sistemas de ventilação e refrigeração",57
+"16","Indústria","Fabricação de equipamentos de transmissão para fins industriais",192
+"17","Indústria","Manutenção e reparação de máquinas e equipamentos da indústria mecânica",109
+"18","Indústria","Fabricação de pneumáticos e de câmaras-de-ar",94
+"19","Indústria","Serviços de usinagem, solda, tratamento e revestimento em metais",74
+"20","Indústria","Fabricação de embalagens de material plástico",60
+"21","Serviços","Atividades de atendimento hospitalar",1001
+"22","Serviços","Transporte rodoviário de carga",722
+"23","Serviços","Limpeza em prédios e em domicílios",454
+"24","Serviços","Serviços combinados de escritório e apoio administrativo",418
+"25","Serviços","Transporte aéreo de passageiros regular",245

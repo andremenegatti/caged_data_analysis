@@ -1,26 +1,26 @@
 "","setor","classe_cnae","saldo"
 "1","Agropecuária","Atividades paisagísticas",8
-"2","Agropecuária","Cultivo de plantas de lavoura temporária não especificadas anteriormente",2
-"3","Agropecuária","Produção florestal - florestas plantadas",2
-"4","Agropecuária","Cultivo de uva",1
+"2","Agropecuária","Cultivo de plantas de lavoura temporária não especificadas anteriormente",3
+"3","Agropecuária","Cultivo de uva",1
+"4","Agropecuária","Produção florestal - florestas plantadas",1
 "5","Agropecuária","Abate de reses, exceto suínos",0
-"6","Comércio","Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",304
-"7","Comércio","Comércio atacadista de papel e papelão em bruto e de embalagens",82
-"8","Comércio","Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados",60
-"9","Comércio","Comércio de peças e acessórios para veículos automotores",53
-"10","Comércio","Comércio varejista de calçados e artigos de viagem",52
-"11","Construção civil","Obras de instalações em construções não especificadas anteriormente",20
-"12","Construção civil","Instalações elétricas",18
-"13","Construção civil","Serviços especializados para construção não especificados anteriormente",18
-"14","Construção civil","Obras para geração e distribuição de energia elétrica e para telecomunicações",11
-"15","Construção civil","Montagem de instalações industriais e de estruturas metálicas",10
-"16","Indústria","Fabricação de produtos alimentícios não especificados anteriormente",55
-"17","Indústria","Fabricação de calçados de materiais não especificados anteriormente",44
-"18","Indústria","Fabricação de tintas, vernizes, esmaltes e lacas",38
-"19","Indústria","Fabricação de produtos de metal não especificados anteriormente",24
-"20","Indústria","Fabricação de artefatos de couro não especificados anteriormente",23
-"21","Serviços","Seguros de vida",174
-"22","Serviços","Administração pública em geral",124
-"23","Serviços","Administração de consórcios para aquisição de bens e direitos",74
-"24","Serviços","Atividades de publicidade não especificadas anteriormente",69
-"25","Serviços","Atividades de serviços prestados principalmente às empresas não especificadas anteriormente",68
+"6","Comércio","Comércio varejista de mercadorias em geral, sem predominância de produtos alimentícios",318
+"7","Comércio","Comércio atacadista de papel e papelão em bruto e de embalagens",78
+"8","Comércio","Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados",74
+"9","Comércio","Comércio varejista de ferragens, madeira e materiais de construção",72
+"10","Comércio","Comércio atacadista especializado de outros produtos intermediários não especificados anteriormente",69
+"11","Construção civil","Instalações elétricas",21
+"12","Construção civil","Obras de instalações em construções não especificadas anteriormente",21
+"13","Construção civil","Serviços especializados para construção não especificados anteriormente",17
+"14","Construção civil","Construção de edifícios",10
+"15","Construção civil","Montagem de instalações industriais e de estruturas metálicas",8
+"16","Indústria","Fabricação de produtos alimentícios não especificados anteriormente",51
+"17","Indústria","Fabricação de tintas, vernizes, esmaltes e lacas",40
+"18","Indústria","Fabricação de calçados de materiais não especificados anteriormente",32
+"19","Indústria","Fabricação de produtos de metal não especificados anteriormente",27
+"20","Indústria","Fabricação de laminados planos e tubulares de material plástico",22
+"21","Serviços","Seguros de vida",163
+"22","Serviços","Administração pública em geral",115
+"23","Serviços","Administração de consórcios para aquisição de bens e direitos",67
+"24","Serviços","Atividades de serviços prestados principalmente às empresas não especificadas anteriormente",66
+"25","Serviços","Atividades de publicidade não especificadas anteriormente",53
