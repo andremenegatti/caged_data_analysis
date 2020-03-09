@@ -1,0 +1,51 @@
+"municipio","setor","vagas_criadas","vagas_destruidas","saldo","saldo_total"
+"São Paulo","Agropecuária",3652,3233,419,71851
+"São Paulo","Comércio",349220,341583,7637,71851
+"São Paulo","Construção civil",130642,126466,4176,71851
+"São Paulo","Indústria",136789,134891,1898,71851
+"São Paulo","Serviços",1077082,1019361,57721,71851
+"Barueri","Agropecuária",22,30,-8,7620
+"Barueri","Comércio",16593,16116,477,7620
+"Barueri","Construção civil",8783,7714,1069,7620
+"Barueri","Indústria",8713,9589,-876,7620
+"Barueri","Serviços",76208,69250,6958,7620
+"Suzano","Agropecuária",197,179,18,4680
+"Suzano","Comércio",5505,4985,520,4680
+"Suzano","Construção civil",1312,1086,226,4680
+"Suzano","Indústria",3149,3591,-442,4680
+"Suzano","Serviços",12170,7812,4358,4680
+"Ribeirão Preto","Agropecuária",427,413,14,2820
+"Ribeirão Preto","Comércio",27812,26490,1322,2820
+"Ribeirão Preto","Construção civil",7257,7738,-481,2820
+"Ribeirão Preto","Indústria",7360,7931,-571,2820
+"Ribeirão Preto","Serviços",54275,51739,2536,2820
+"Campinas","Agropecuária",628,735,-107,2553
+"Campinas","Comércio",39446,38977,469,2553
+"Campinas","Construção civil",9886,8842,1044,2553
+"Campinas","Indústria",14493,15556,-1063,2553
+"Campinas","Serviços",82965,80755,2210,2553
+"Campo Limpo Paulista","Agropecuária",93,80,13,-736
+"Campo Limpo Paulista","Comércio",715,824,-109,-736
+"Campo Limpo Paulista","Construção civil",40,42,-2,-736
+"Campo Limpo Paulista","Indústria",984,1465,-481,-736
+"Campo Limpo Paulista","Serviços",731,888,-157,-736
+"Santa Rita do Passa Quatro","Agropecuária",190,172,18,-742
+"Santa Rita do Passa Quatro","Comércio",612,545,67,-742
+"Santa Rita do Passa Quatro","Construção civil",55,44,11,-742
+"Santa Rita do Passa Quatro","Indústria",1523,1574,-51,-742
+"Santa Rita do Passa Quatro","Serviços",1741,2528,-787,-742
+"Araçoiaba da Serra","Agropecuária",144,139,5,-777
+"Araçoiaba da Serra","Comércio",508,483,25,-777
+"Araçoiaba da Serra","Construção civil",1491,1369,122,-777
+"Araçoiaba da Serra","Indústria",569,409,160,-777
+"Araçoiaba da Serra","Serviços",627,1716,-1089,-777
+"São Bernardo do Campo","Agropecuária",59,62,-3,-1099
+"São Bernardo do Campo","Comércio",18762,18049,713,-1099
+"São Bernardo do Campo","Construção civil",5273,5591,-318,-1099
+"São Bernardo do Campo","Indústria",13006,16239,-3233,-1099
+"São Bernardo do Campo","Serviços",48321,46579,1742,-1099
+"Mogi das Cruzes","Agropecuária",747,828,-81,-1711
+"Mogi das Cruzes","Comércio",9205,9146,59,-1711
+"Mogi das Cruzes","Construção civil",2920,2734,186,-1711
+"Mogi das Cruzes","Indústria",4414,4927,-513,-1711
+"Mogi das Cruzes","Serviços",19470,20832,-1362,-1711

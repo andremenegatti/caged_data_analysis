@@ -1,0 +1,51 @@
+"regiao_governo","setor","vagas_criadas_setor_regiao","vagas_destruidas_setor_regiao","saldo_setor_regiao","saldo_total_regiao","vagas_criadas_setor_sede","vagas_destruidas_setor_sede","saldo_setor_sede","saldo_total_sede"
+"São Paulo","Agropecuária",7176,6971,205,97547,3652,3233,419,71851
+"São Paulo","Comércio",549701,536379,13322,97547,349220,341583,7637,71851
+"São Paulo","Construção civil",189585,181159,8426,97547,130642,126466,4176,71851
+"São Paulo","Indústria",269541,275415,-5874,97547,136789,134891,1898,71851
+"São Paulo","Serviços",1514305,1432837,81468,97547,1077082,1019361,57721,71851
+"Campinas","Agropecuária",12485,12075,410,11353,628,735,-107,2553
+"Campinas","Comércio",93923,89743,4180,11353,39446,38977,469,2553
+"Campinas","Construção civil",28591,27125,1466,11353,9886,8842,1044,2553
+"Campinas","Indústria",77583,78572,-989,11353,14493,15556,-1063,2553
+"Campinas","Serviços",175110,168824,6286,11353,82965,80755,2210,2553
+"Ribeirão Preto","Agropecuária",11803,11214,589,6212,427,413,14,2820
+"Ribeirão Preto","Comércio",41935,40211,1724,6212,27812,26490,1322,2820
+"Ribeirão Preto","Construção civil",16630,16317,313,6212,7257,7738,-481,2820
+"Ribeirão Preto","Indústria",29644,30188,-544,6212,7360,7931,-571,2820
+"Ribeirão Preto","Serviços",71829,67699,4130,6212,54275,51739,2536,2820
+"Barretos","Agropecuária",21012,18987,2025,5587,733,718,15,1046
+"Barretos","Comércio",9669,8776,893,5587,3109,2970,139,1046
+"Barretos","Construção civil",2267,2260,7,5587,876,888,-12,1046
+"Barretos","Indústria",11961,10899,1062,5587,1969,1743,226,1046
+"Barretos","Serviços",12984,11384,1600,5587,5128,4450,678,1046
+"Araraquara","Agropecuária",16773,15674,1099,3744,781,818,-37,1134
+"Araraquara","Comércio",13889,13666,223,3744,6799,6899,-100,1134
+"Araraquara","Construção civil",5087,4977,110,3744,2673,2473,200,1134
+"Araraquara","Indústria",15967,14911,1056,3744,4537,4194,343,1134
+"Araraquara","Serviços",22759,21503,1256,3744,15073,14345,728,1134
+"São João da Boa Vista","Agropecuária",12626,13294,-668,-275,887,1101,-214,-122
+"São João da Boa Vista","Comércio",9981,9691,290,-275,2435,2457,-22,-122
+"São João da Boa Vista","Construção civil",1289,1432,-143,-275,475,542,-67,-122
+"São João da Boa Vista","Indústria",7491,8046,-555,-275,1324,1365,-41,-122
+"São João da Boa Vista","Serviços",10197,9396,801,-275,2886,2664,222,-122
+"Catanduva","Agropecuária",5454,6081,-627,-329,706,451,255,690
+"Catanduva","Comércio",6434,6390,44,-329,3348,3347,1,690
+"Catanduva","Construção civil",1559,1360,199,-329,1376,1181,195,690
+"Catanduva","Indústria",5199,5670,-471,-329,2742,2783,-41,690
+"Catanduva","Serviços",6886,6360,526,-329,3927,3647,280,690
+"Lins","Agropecuária",1521,1475,46,-366,115,106,9,-335
+"Lins","Comércio",2894,3037,-143,-366,1617,1782,-165,-335
+"Lins","Construção civil",611,704,-93,-366,331,437,-106,-335
+"Lins","Indústria",4146,4377,-231,-366,2110,2103,7,-335
+"Lins","Serviços",3841,3786,55,-366,2724,2804,-80,-335
+"Votuporanga","Agropecuária",989,1732,-743,-965,77,63,14,32
+"Votuporanga","Comércio",3506,3252,254,-965,2809,2571,238,32
+"Votuporanga","Construção civil",1293,1368,-75,-965,1109,1103,6,32
+"Votuporanga","Indústria",4513,4921,-408,-965,2648,2688,-40,32
+"Votuporanga","Serviços",5244,5237,7,-965,3943,4129,-186,32
+"Araçatuba","Agropecuária",3165,3111,54,-1256,406,390,16,-153
+"Araçatuba","Comércio",13091,12834,257,-1256,6347,6088,259,-153
+"Araçatuba","Construção civil",3042,3243,-201,-1256,1257,1424,-167,-153
+"Araçatuba","Indústria",13038,15306,-2268,-1256,2671,2967,-296,-153
+"Araçatuba","Serviços",16975,16073,902,-1256,9142,9107,35,-153
